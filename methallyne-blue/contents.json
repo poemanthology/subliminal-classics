@@ -2,7 +2,7 @@
 	"type": "static",
 	"version": 1,
 	"title": "Subliminal Classics: Methallyne Blue",
-	"description": "“The methallyne blue analogy of stuff.\n\nProbably the weirdest poetry anthology to ever exist.”\n<img class=\"index-image main-logo\" alt=\"Enlarged subliminal dog logo\" src=\"subliminal-classics/methallyne-blue/cover.png\" width=\"70%\" height=\"70%\">\n<p>Beware: <sup>C</sup> <sub>o</sub> <sup>o</sup> <sub>l</sub> <sup>s</sup> <sub>t</sub> <sup>u</sup><sub>f</sub> <sup>f</sup> <sub>a</sub> <sup>h</sup> <sub>e</sub> <sup>a</sup> <sub>d</sub> <sup>.</sup></p>",
+	"description": "“The methallyne blue analogy of stuff.\n\nProbably the weirdest poetry anthology to ever exist.”\n<img class=\"index-image main-logo\" alt=\"Enlarged subliminal dog logo\" src=\"https://raw.githubusercontent.com/poemanthology/subliminal-classics/refs/heads/main/methallyne-blue/cover.png\" width=\"70%\" height=\"70%\">\n<p>Beware: <sup>C</sup> <sub>o</sub> <sup>o</sup> <sub>l</sub> <sup>s</sup> <sub>t</sub> <sup>u</sup><sub>f</sub> <sup>f</sup> <sub>a</sub> <sup>h</sup> <sub>e</sub> <sup>a</sup> <sub>d</sub> <sup>.</sup></p>",
 	"coverImagePath": "cover.png",
 	"license": "CC BY-NC-SA 4.0",
 	"authors": [
